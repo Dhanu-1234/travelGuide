@@ -1,0 +1,26 @@
+.package-item {
+  background-color: #ffffff;
+  width: 40%;
+  margin: 10px;
+  padding-bottom: 15px;
+}
+
+.img-styles {
+  height: 200px;
+  width: 100%;
+}
+
+.package-title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+  margin: 15px;
+}
+
+.package-description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 15px;
+}
